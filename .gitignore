@@ -1,0 +1,12 @@
+# Videos (never push)
+*.mp4
+*.mov
+*.avi
+
+# Power BI temp
+*.pbi
+*.pbix.lock
+
+# System
+.DS_Store
+Thumbs.db
