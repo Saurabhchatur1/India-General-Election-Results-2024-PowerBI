@@ -14,6 +14,13 @@ The solution is designed to support **political analysts, researchers, policymak
 ![Power BI India-General-Election-Results-2024-powerBI](Screenshots/Overview_Analysis.png)
 
 
+## 🎥 Dashboard Walkthrough Video
+
+🔗 **Watch the full interactive dashboard walkthrough here:**  
+[https://www.linkedin.com/posts/saurabh-chatur-044798287_powerbi-dataanalytics-businessintelligence-activity-7415996675309174784-w8wB
+](https://www.linkedin.com/posts/saurabh-chatur-044798287_powerbi-dataanalytics-electionanalysis-activity-7419067391600594944-9p2G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEW0kzQBPITKCg1MidgyZnUTpgpkLBAEG3s)
+
+
 ## 🎯 Objectives
 
 * Analyze **seat distribution** among major political alliances and independent candidates
